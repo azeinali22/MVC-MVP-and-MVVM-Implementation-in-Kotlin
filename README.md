@@ -19,5 +19,7 @@ The application designed as a simple counter-app that demonstrates the implement
 MVVM architectural patterns. This application mainly intended to highlight the differences and similarities of
 these architectural styles rather than focus on complex functionality.
 
+For more information, please read the ReadMe.pdf
+
 Click on Link to watch the screen recording of application:\
 https://drive.google.com/file/d/15KPTLrcl_8PLAD2GXiQteqJakVvfzIxG/view?usp=sharing
